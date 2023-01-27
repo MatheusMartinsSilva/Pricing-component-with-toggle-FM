@@ -129,7 +129,11 @@ function App() {
             Frontend Mentor
           </a>
           . Coded by{" "}
-          <a href="#" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/MatheusMartinsSilva/Pricing-component-with-toggle-FM"
+            target="_blank"
+            rel="noreferrer"
+          >
             Matheus Martins
           </a>
           .
